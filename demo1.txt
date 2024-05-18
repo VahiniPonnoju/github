@@ -1,2 +1,9 @@
+git checkout -b
+git log
+git log --oneline
 git clone
 git remote -v
+git pull
+git fetch
+git push
+
